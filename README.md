@@ -23,15 +23,15 @@
 
 <img width="47%" src="https://streak-stats.demolab.com?user=SoufianeTayeb&count_private=true&theme=algolia&border_radius=20"/>
 
-<!-- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsmewizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmewizardy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wizardy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19320322/elazouzzi-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19320322/elazouzzi-hassan" height="30" width="40" /></a>
-<a href="https://fb.com/itsmewizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmewizardy" height="30" width="40" /></a>
-<a href="https://instagram.com/therealwizardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealwizardy" height="30" width="40" /></a>
-<a href="https://dribbble.com/therealwizart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="therealwizart" height="30" width="40" /></a>
-</p> -->
+<a href="https://twitter.com/SoufianeTayeb05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SoufianeTayeb05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soufiane-tayeb-87355b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane-tayeb-87355b207" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21074175/soufiane-tayeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21074175/soufiane-tayeb" height="30" width="40" /></a>
+<a href="https://fb.com/soufiane.tayeb1937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soufiane.tayeb1937" height="30" width="40" /></a>
+<a href="https://www.instagram.com/soufianetvyeb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soufianetvyeb" height="30" width="40" /></a>
+<a href="https://dribbble.com/SoufianeTb05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="SoufianeTb05" height="30" width="40" /></a>
+</p> 
 
 
 
